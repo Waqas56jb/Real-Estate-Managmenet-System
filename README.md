@@ -12,10 +12,10 @@ The Real Estate Management System is a web application designed to streamline pr
  Express.js
 # Database: 
  MongoDB
-# Authentication: JSON Web Tokens (JWT)
-# Deployment: Heroku
-# Version Control: Git, GitHub
-# Others: Axios, Chakra UI, React Router
+ Authentication: JSON Web Tokens (JWT)
+ Deployment: Heroku
+ Version Control: Git, GitHub
+ Others: Axios, Chakra UI, React Router
 Features
 
 User Authentication: Secure user authentication using JWT.
